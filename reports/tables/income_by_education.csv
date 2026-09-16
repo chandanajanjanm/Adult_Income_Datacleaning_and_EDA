@@ -1,0 +1,17 @@
+education,<=50K,>50K
+Preschool,98.8,1.2
+1st-4th,96.76,3.24
+11th,94.92,5.08
+5th-6th,94.7,5.3
+9th,94.58,5.42
+10th,93.74,6.26
+7th-8th,93.51,6.49
+12th,92.69,7.31
+HS-grad,84.14,15.86
+Some-college,81.04,18.96
+Assoc-voc,74.67,25.33
+Assoc-acdm,74.2,25.8
+Bachelors,58.72,41.28
+Masters,45.09,54.91
+Doctorate,27.44,72.56
+Prof-school,26.02,73.98

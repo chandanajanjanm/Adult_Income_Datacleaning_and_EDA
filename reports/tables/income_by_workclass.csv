@@ -1,0 +1,10 @@
+workclass,<=50K,>50K
+Never-worked,100.0,0.0
+Unknown,90.53,9.47
+Without-pay,90.48,9.52
+Private,78.21,21.79
+State-gov,73.25,26.75
+Self-emp-not-inc,72.11,27.89
+Local-gov,70.44,29.56
+Federal-gov,60.82,39.18
+Self-emp-inc,44.66,55.34
